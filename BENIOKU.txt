@@ -1,0 +1,8 @@
+﻿Bu klasörün içeriğini alt alan adının kök dizinine olduğu gibi yükleyin.
+Sayfalar arama motorlarına kapalıdır (noindex).
+Katalog sayfaları görselleri candirlibranda.com'dan, yazı tiplerini Google'dan çeker; internet gerekir.
+
+İçerik:
+  index.html      Müşteriye giriş sayfası (10 seçenek)
+  secim.html      Seçim sayfası (görseller içine gömülüdür)
+  secenek-NN/     Her seçeneğin tam kataloğu (katalog.html ve ona bağlı doku görselleri)
